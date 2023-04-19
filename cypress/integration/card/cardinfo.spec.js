@@ -35,7 +35,7 @@ describe('Card tests', () => {
             cy.get(CARD.CARD_LOGIN_MODAL).should('be.visible')
             cy.get(CARD.CARD_LOGIN_MODAL).contains('h2', 'Log in')
             waitForPageFullLoad()
-            cy.get(CARD.CARD_LOGIN_EMAIL).type(email)
+            cy.get(CARD.CARD_LOGIN_EMAIL).type('tourradartech@yopmail.com')
             cy.get(CARD.CARD_LOGIN_PASSWORD).type(password)
             cy.get(CARD.CARD_LOGIN_BUTTON).click()
             waitForPageFullLoad()
