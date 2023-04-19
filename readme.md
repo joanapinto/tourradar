@@ -11,7 +11,15 @@ First, you need to clone the project. Just run the following commands inside you
     git clone https://github.com/joanapinto/tourradar.git
 
 ## 2. Requirements
-Node: 10.15
+Node and NPM
+
+If you don't have:
+```
+brew install node
+```
+```
+brew install nvm
+```
 ### 2. Install packages
 
 Go to the **Tour Radar** project directory, then run the following command:
