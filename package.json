@@ -1,0 +1,14 @@
+{
+  "name": "tourradar-tech-challenge",
+  "version": "1.0.0",
+  "description": "Automation UI - Tour Radar",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cypress:ui": "./node_modules/.bin/cypress open",
+    "cypress:chrome": "./node_modules/.bin/cypress run --browser chrome --headed"
+  }
+}
