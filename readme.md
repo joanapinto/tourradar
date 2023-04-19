@@ -34,9 +34,3 @@ npm run cypress:ui
 ```
 npm run cypress:chrome
 ```
-## Running instructions - run all tests in firefox
-
-1. Open a command line and type 
-```
-npm run cypress:firefox
-```
