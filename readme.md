@@ -42,6 +42,6 @@ npm run cypress:ui
 ```
 npm run cypress:chrome
 ```
-## To see more check
+## Also check
 Google sheets with manual test cases: https://docs.google.com/spreadsheets/d/1AtjEymvIAvD6eypq4OYAwkRXAVQ_0x9AHsdHR2Zu4Y4/edit#gid=0
 Miro for all the automated flows: https://miro.com/app/board/uXjVMTTULqk=/
